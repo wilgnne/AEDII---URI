@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/bin/Debug/netcoreapp2.2/Area_Superior.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/bin/Debug/netcoreapp2.2/Area_Superior.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/bin/Debug/netcoreapp2.2/Area_Superior.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/bin/Debug/netcoreapp2.2/Area_Superior.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/bin/Debug/netcoreapp2.2/Area_Superior.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/obj/Debug/netcoreapp2.2/Area_Superior.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/obj/Debug/netcoreapp2.2/Area_Superior.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/obj/Debug/netcoreapp2.2/Area_Superior.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/obj/Debug/netcoreapp2.2/Area_Superior.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/obj/Debug/netcoreapp2.2/Area_Superior.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Area_Superior/obj/Debug/netcoreapp2.2/Area_Superior.pdb

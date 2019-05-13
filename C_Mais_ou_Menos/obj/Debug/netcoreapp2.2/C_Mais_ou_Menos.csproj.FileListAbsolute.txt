@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/bin/Debug/netcoreapp2.2/C_Mais_ou_Menos.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/bin/Debug/netcoreapp2.2/C_Mais_ou_Menos.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/bin/Debug/netcoreapp2.2/C_Mais_ou_Menos.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/bin/Debug/netcoreapp2.2/C_Mais_ou_Menos.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/bin/Debug/netcoreapp2.2/C_Mais_ou_Menos.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/obj/Debug/netcoreapp2.2/C_Mais_ou_Menos.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/obj/Debug/netcoreapp2.2/C_Mais_ou_Menos.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/obj/Debug/netcoreapp2.2/C_Mais_ou_Menos.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/obj/Debug/netcoreapp2.2/C_Mais_ou_Menos.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/obj/Debug/netcoreapp2.2/C_Mais_ou_Menos.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/obj/Debug/netcoreapp2.2/C_Mais_ou_Menos.pdb

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/C_Mais_ou_Menos.csproj": {}
+  },
+  "projects": {
+    "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/C_Mais_ou_Menos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/C_Mais_ou_Menos.csproj",
+        "projectName": "C_Mais_ou_Menos",
+        "projectPath": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/C_Mais_ou_Menos.csproj",
+        "packagesPath": "/home/wilgnne/.nuget/packages/",
+        "outputPath": "/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/C_Mais_ou_Menos/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/wilgnne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

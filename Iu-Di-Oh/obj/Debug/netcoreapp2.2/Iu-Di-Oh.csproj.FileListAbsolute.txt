@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/bin/Debug/netcoreapp2.2/Iu-Di-Oh.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/bin/Debug/netcoreapp2.2/Iu-Di-Oh.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/bin/Debug/netcoreapp2.2/Iu-Di-Oh.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/bin/Debug/netcoreapp2.2/Iu-Di-Oh.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/bin/Debug/netcoreapp2.2/Iu-Di-Oh.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/obj/Debug/netcoreapp2.2/Iu-Di-Oh.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/obj/Debug/netcoreapp2.2/Iu-Di-Oh.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/obj/Debug/netcoreapp2.2/Iu-Di-Oh.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/obj/Debug/netcoreapp2.2/Iu-Di-Oh.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/obj/Debug/netcoreapp2.2/Iu-Di-Oh.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Iu-Di-Oh/obj/Debug/netcoreapp2.2/Iu-Di-Oh.pdb

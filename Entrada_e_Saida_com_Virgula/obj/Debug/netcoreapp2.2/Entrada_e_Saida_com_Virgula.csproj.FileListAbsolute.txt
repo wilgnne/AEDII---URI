@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/bin/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/bin/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/bin/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/bin/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/bin/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/obj/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/obj/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/obj/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/obj/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/obj/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Entrada_e_Saida_com_Virgula/obj/Debug/netcoreapp2.2/Entrada_e_Saida_com_Virgula.pdb

@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/bin/Debug/netcoreapp2.2/Matriz_123.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/bin/Debug/netcoreapp2.2/Matriz_123.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/bin/Debug/netcoreapp2.2/Matriz_123.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/bin/Debug/netcoreapp2.2/Matriz_123.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/bin/Debug/netcoreapp2.2/Matriz_123.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/obj/Debug/netcoreapp2.2/Matriz_123.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/obj/Debug/netcoreapp2.2/Matriz_123.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/obj/Debug/netcoreapp2.2/Matriz_123.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/obj/Debug/netcoreapp2.2/Matriz_123.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/obj/Debug/netcoreapp2.2/Matriz_123.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_123/obj/Debug/netcoreapp2.2/Matriz_123.pdb

@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/bin/Debug/netcoreapp2.2/Fibonacci_em_Vetor.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/bin/Debug/netcoreapp2.2/Fibonacci_em_Vetor.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/bin/Debug/netcoreapp2.2/Fibonacci_em_Vetor.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/bin/Debug/netcoreapp2.2/Fibonacci_em_Vetor.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/bin/Debug/netcoreapp2.2/Fibonacci_em_Vetor.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/obj/Debug/netcoreapp2.2/Fibonacci_em_Vetor.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/obj/Debug/netcoreapp2.2/Fibonacci_em_Vetor.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/obj/Debug/netcoreapp2.2/Fibonacci_em_Vetor.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/obj/Debug/netcoreapp2.2/Fibonacci_em_Vetor.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/obj/Debug/netcoreapp2.2/Fibonacci_em_Vetor.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Fibonacci_em_Vetor/obj/Debug/netcoreapp2.2/Fibonacci_em_Vetor.pdb

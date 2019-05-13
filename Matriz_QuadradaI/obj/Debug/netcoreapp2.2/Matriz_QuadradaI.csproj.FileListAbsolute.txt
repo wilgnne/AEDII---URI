@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/bin/Debug/netcoreapp2.2/Matriz_QuadradaI.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/bin/Debug/netcoreapp2.2/Matriz_QuadradaI.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/bin/Debug/netcoreapp2.2/Matriz_QuadradaI.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/bin/Debug/netcoreapp2.2/Matriz_QuadradaI.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/bin/Debug/netcoreapp2.2/Matriz_QuadradaI.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/obj/Debug/netcoreapp2.2/Matriz_QuadradaI.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/obj/Debug/netcoreapp2.2/Matriz_QuadradaI.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/obj/Debug/netcoreapp2.2/Matriz_QuadradaI.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/obj/Debug/netcoreapp2.2/Matriz_QuadradaI.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/obj/Debug/netcoreapp2.2/Matriz_QuadradaI.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Matriz_QuadradaI/obj/Debug/netcoreapp2.2/Matriz_QuadradaI.pdb

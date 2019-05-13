@@ -1,0 +1,11 @@
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/bin/Debug/netcoreapp2.2/Picos_e_Vales.deps.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/bin/Debug/netcoreapp2.2/Picos_e_Vales.runtimeconfig.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/bin/Debug/netcoreapp2.2/Picos_e_Vales.runtimeconfig.dev.json
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/bin/Debug/netcoreapp2.2/Picos_e_Vales.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/bin/Debug/netcoreapp2.2/Picos_e_Vales.pdb
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/obj/Debug/netcoreapp2.2/Picos_e_Vales.csprojAssemblyReference.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/obj/Debug/netcoreapp2.2/Picos_e_Vales.csproj.CoreCompileInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/obj/Debug/netcoreapp2.2/Picos_e_Vales.AssemblyInfoInputs.cache
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/obj/Debug/netcoreapp2.2/Picos_e_Vales.AssemblyInfo.cs
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/obj/Debug/netcoreapp2.2/Picos_e_Vales.dll
+/mnt/data/Documentos/Projetos/Programming/Faculdade/AEDII/REVISÃO @ ALGORITMOS E ESTRUTURA DE DADOS 2/Picos_e_Vales/obj/Debug/netcoreapp2.2/Picos_e_Vales.pdb
